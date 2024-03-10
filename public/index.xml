@@ -2,24 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Stephen Zhang</title>
-    <link>//localhost:1313/</link>
+    <link>/</link>
     <description>Stephen Zhang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 09 Mar 2024 21:10:50 -0500</lastBuildDate>
     
-    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>My First Post</title>
-      <link>//localhost:1313/posts/my-first-post/</link>
-      <pubDate>Sat, 09 Mar 2024 21:10:50 -0500</pubDate>
-      
-      <guid>//localhost:1313/posts/my-first-post/</guid>
-      <description>&lt;p&gt;Hi!&lt;/p&gt;
-</description>
-    </item>
     
   </channel>
 </rss>
