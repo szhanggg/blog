@@ -9,4 +9,4 @@ You can leave this empty if you don’t want to show any content.
 
 Hi I'm Stephen Zhang, a CS student at Carnegie Mellon University.
 
-Welcome to my blog. I don't know how you got here, but I hope you enjoy reading my personal opinions/thoughts about various topics.
+Welcome to my blog. I hope you enjoy reading my personal opinions/thoughts about various topics.
