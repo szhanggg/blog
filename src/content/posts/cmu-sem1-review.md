@@ -1,6 +1,6 @@
 ---
 title: CMU Semester One Course Reviews
-pubDate: '2025-12-02'
+pubDate: '2025-01-04'
 ---
 
 After my first semester at CMU, here are my thoughts on the various courses I took.
