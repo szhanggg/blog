@@ -11,7 +11,7 @@ Workload is total hours per week spent (including lecture, HW, etc.)
 
 When it comes to rating miscellaneous factors, I'm treating it as bonus points.
 
-**NOTE: I tended to air on the side of safety when rating course difficulties as to leave room for future harder courses.
+**NOTE: I tended to err on the side of safety when rating course difficulties as to leave room for future harder courses.
 I also came in with a solid background.**
 
 ---
